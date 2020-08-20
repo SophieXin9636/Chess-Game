@@ -45,5 +45,8 @@ Let's play the game! <br>
 
 <img src="case3_1.png"> <br>
 
-The last step would occur because using twice position movement intentionally. <br>
 <img src="case3_2.png"> <br>
+
+The last step would occur because using twice position movement intentionally. <br>
+
+<img src="case3_3.png"> <br>
